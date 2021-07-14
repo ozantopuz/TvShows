@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TvShows</string>
+    <string name="launch_button_text">go</string>
+    <string name="menu_item_sort">Sort</string>
+</resources>

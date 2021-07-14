@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="sorting_types">
+        <item>Default</item>
+        <item>Alphabetical</item>
+        <item>Popularity</item>
+        <item>Date</item>
+        <item>Rating</item>
+    </string-array>
+</resources>
